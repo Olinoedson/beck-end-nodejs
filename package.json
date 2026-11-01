@@ -1,0 +1,11 @@
+{
+  "name": "api-encomendas-cafe-do-bairro",
+  "version": "1.0.0",
+  "description": "API de encomendas do Café do Bairro (TecnoJr)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/api.test.js"
+  },
+  "license": "MIT"
+}
